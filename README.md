@@ -1,7 +1,4 @@
 # Weather Information Processing System
-A C++ console application that processes weather data (cloud cover and atmospheric pressure) from text files, displays interactive maps, and generates forecast summaries with rain probability predictions.
-
-# Weather Information Processing System
 
 A C++ console application that processes weather data (cloud cover and atmospheric pressure) from text files, displays interactive maps, and generates forecast summaries with rain probability predictions.
 
